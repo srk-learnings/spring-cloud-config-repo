@@ -1,0 +1,1 @@
+# Spring Cloud Config Properties - Repository
